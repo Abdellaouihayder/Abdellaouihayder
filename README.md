@@ -61,7 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="android studio logo" />
 </div>
 
-###
+### 📫 Contact:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abdellaoui-hayder-44b25a248">
@@ -70,15 +70,12 @@
   <a href="mailto:haidaran2002@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://github.com/Abdellaouihayder">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  <a href="https://wa.me/21692767714" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
   </a>
 </div>
 
-###
-
-
-### 🏢 Internships
+### 🏢 Internships:
 
 <div align="center">
   <table>
@@ -87,12 +84,10 @@
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEhRg6t2bwa2w/company-logo_200_200/B4DZd0_q9YHMAI-/0/1750014539689?e=1756339200&v=beta&t=BmlgU0PB5PtVi2ZlDKhYlTJX4oIy52lkdf_BzZLTLoM" height="60" alt="MBL logo" /><br />
         <sub><b>MBL (Media Ben Lazher)(Tunisia, Sidi Bouzid)</b></sub>
       </td>
-      <td width="40"></td>
       <td align="center">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQH5yQApAogJsw/company-logo_200_200/company-logo_200_200/0/1666376861047?e=1756339200&v=beta&t=6vpJfQ-yOHjcMqIvyzEk-JMWSkl2xcGPpt0wZ0v0g9E" height="60" alt="SWI logo" /><br />
         <sub><b>SWI (Smart Ways Innovations)(Tunisia, Sfax)</b></sub>
       </td>
-      <td width="40"></td>
       <td align="center">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHxrskAaWPkkQ/company-logo_200_200/company-logo_200_200/0/1704394057072?e=1756339200&v=beta&t=ZHEvMUM6PRQAcB2Ir_9ohlmdjEPMUZDzNKDU2mdn-mw" height="60" alt="MTC logo" /><br />
         <sub><b>ETX (EventokenX)( France, Lyon)</b></sub>
