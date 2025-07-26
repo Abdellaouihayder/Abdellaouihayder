@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abdellaoui Hayder and I'm a Full-Stack Developer & AI Enthusiast from Tunisia 🇹🇳</h2>
+<h2 align="left">Hi 👋! My name is <strong> Abdellaoui Hayder </strong>and I'm a Full-Stack Developer & AI Enthusiast from Tunisia 🇹🇳</h2>
 
 🎓 Currently a Software engineering student at ENICarthage  
 🎓 Graduated from ISET Sidi Bouzid in Web & Multimedia Development  
