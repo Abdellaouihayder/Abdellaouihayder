@@ -2,7 +2,7 @@
 
 🎓 Currently a Software engineering student at ENICarthage  
 🎓 Graduated from ISET Sidi Bouzid in Web & Multimedia Development  
-💡 Passionate about AI, IoT, Web/Mobile Dev & Blockchain  
+💡 Passionate about AI, IoT & Web/Mobile Dev   
 🧠 I love building intelligent systems and solving real-world problems  
 🎮 In my free time: gaming, Taekwondo 🥋, coaching, and learning new tech
 
