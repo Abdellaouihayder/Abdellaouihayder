@@ -81,15 +81,15 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEhRg6t2bwa2w/company-logo_200_200/B4DZd0_q9YHMAI-/0/1750014539689?e=1756339200&v=beta&t=BmlgU0PB5PtVi2ZlDKhYlTJX4oIy52lkdf_BzZLTLoM" height="60" alt="MBL logo" /><br />
+        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEhRg6t2bwa2w/company-logo_100_100/B4DZd0_q9YHMAQ-/0/1750014539689?e=1759363200&v=beta&t=67ygYC0-Lf2vdnCDkGcVyodwSTKR9M31FWQVTni2Qf8" height="60" alt="MBL logo" /><br />
         <sub><b>MBL (Media Ben Lazher)(Tunisia, Sidi Bouzid)</b></sub>
       </td>
       <td align="center">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQH5yQApAogJsw/company-logo_200_200/company-logo_200_200/0/1666376861047?e=1756339200&v=beta&t=6vpJfQ-yOHjcMqIvyzEk-JMWSkl2xcGPpt0wZ0v0g9E" height="60" alt="SWI logo" /><br />
+        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQH5yQApAogJsw/company-logo_200_200/company-logo_200_200/0/1666376861047?e=1759363200&v=beta&t=UzJqDuJyJH15ftbviQpwOqZhDrlH53qc2UIvpfb1vVo" height="60" alt="SWI logo" /><br />
         <sub><b>SWI (Smart Ways Innovations)(Tunisia, Sfax)</b></sub>
       </td>
       <td align="center">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHxrskAaWPkkQ/company-logo_200_200/company-logo_200_200/0/1704394057072?e=1756339200&v=beta&t=ZHEvMUM6PRQAcB2Ir_9ohlmdjEPMUZDzNKDU2mdn-mw" height="60" alt="MTC logo" /><br />
+        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHxrskAaWPkkQ/company-logo_200_200/company-logo_200_200/0/1704394057072?e=1759363200&v=beta&t=ya63QhuXDJjUYXLTpEp_eUPOGTN-6xiG4Y5vm_8tif0" height="60" alt="MTC logo" /><br />
         <sub><b>ETX (EventokenX)( France, Lyon)</b></sub>
       </td>
     </tr>
